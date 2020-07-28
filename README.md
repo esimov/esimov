@@ -1,4 +1,4 @@
-Senior Software Engineer, Open Source enthusiast, Computer vision and Image Processing addict
+Software Engineer, Open Source enthusiast, Computer Vision and Image Processing fanatic.
 
 - [esimov.com][1]
 - [@simo_endre][2]
