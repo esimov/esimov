@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Endre Simo, software developer, gopher and open source enthusiast, having a deep passion for image processing, computer vision, real time and data intensive applications.
+I'm Endre Simo, a software developer and open source enthusiast, having a deep passion for image processing, computer vision, real time and data intensive applications.
 
 #### My Github account statistics:
 ![github stats](https://github-readme-stats.vercel.app/api?username=esimov&show_icons=true&line_height=24)
